@@ -1,12 +1,24 @@
-.boxed {
-    max-width: 1340px;
-    margin: 0 auto;
-}
 
-.h100 {
-    min-height: 100px;
-}
 
-.bg-header {
+
+.bg_header {
     background-color: #2c3e50;
 }
+
+header {
+    height: 100px;
+}
+
+.start {
+    height: 675px;
+    background-color: #1abc9c;
+}
+
+.portfolio {
+    height: 1000px;
+}
+
+.portfolio {
+    height: 1000px;
+}
+
