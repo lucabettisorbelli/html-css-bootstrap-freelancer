@@ -6,7 +6,7 @@
 }
 
 header {
-    height: 100px;
+    min-height: 100px;
 }
 
 .start {
@@ -18,7 +18,24 @@ header {
     height: 1000px;
 }
 
-.portfolio {
-    height: 1000px;
+.about {
+    min-height: 570px;
+    background-color: #1abc9c;
+}
+
+
+.bg_red {background-color: #ba4b63;}
+.bg_azure {background-color: #1ea4b6;}
+.bg_black {background-color: #140f0f;}
+.bg_lightblue {background-color: #1c83c1;}
+.bg_blue {background-color: #0e38b5;}
+.bg_brown {background-color: #ccb2a3;}
+
+.h_col {
+    min-height: 300px;
+}
+
+.contact {
+    min-height: 800px;
 }
 
