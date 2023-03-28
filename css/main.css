@@ -1,3 +1,12 @@
-body {
-    background-color: aqua;
+.boxed {
+    max-width: 1340px;
+    margin: 0 auto;
+}
+
+.h100 {
+    min-height: 100px;
+}
+
+.bg-header {
+    background-color: #2c3e50;
 }
