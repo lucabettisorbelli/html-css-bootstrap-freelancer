@@ -2,21 +2,16 @@
 
 .navbar {
     background-color: #2c3e50;
-    min-height: 100px;
 }
 
 .start {
-    height: 675px;
     background-color: #1abc9c;
 }
 
 .portfolio {
-    height: 1000px;
 }
 
 .about {
-    min-height: 570px;
-    background-color: #1abc9c;
 }
 
 .h_col {
@@ -24,21 +19,26 @@
 }
 
 .contact {
-    min-height: 800px;
 }
 
 footer {
-    min-height: 400px;
+}
+
+#btn_about {
+    width: 100px;
+}
+
+#btn_contact {
+    width: 100px;
+    background-color: #1abc9c;
 }
 
 .footer_top {
     background-color: #3a546d;
-    min-height: 280px;
 }
 
 .footer_bottom {
     background-color: #2c3e50;
-    min-height: 120px;
 }
 
 /* UTILITIES */
@@ -49,3 +49,5 @@ footer {
 .bg_lightblue {background-color: #1c83c1;}
 .bg_blue {background-color: #0e38b5;}
 .bg_brown {background-color: #ccb2a3;}
+.bg_lightgreen {background-color: #1abc9c;}
+
